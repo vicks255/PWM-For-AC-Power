@@ -1,0 +1,9 @@
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\bin\Debug\AC Light Dimmer.exe.config
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\bin\Debug\AC Light Dimmer.exe
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\bin\Debug\AC Light Dimmer.pdb
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC Light Dimmer.csprojResolveAssemblyReference.cache
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC_Light_Dimmer.Form1.resources
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC_Light_Dimmer.Properties.Resources.resources
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC Light Dimmer.csproj.GenerateResource.Cache
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC Light Dimmer.exe
+c:\users\vickers\documents\visual studio 2012\Projects\AC Light Dimmer\AC Light Dimmer\obj\Debug\AC Light Dimmer.pdb
